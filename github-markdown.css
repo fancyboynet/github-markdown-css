@@ -617,7 +617,6 @@
   font-size: 100%;
   word-break: normal;
   white-space: pre;
-  background: transparent;
   border: 0;
 }
 
@@ -648,7 +647,6 @@
   overflow: visible;
   line-height: inherit;
   word-wrap: normal;
-  background-color: transparent;
   border: 0;
 }
 
